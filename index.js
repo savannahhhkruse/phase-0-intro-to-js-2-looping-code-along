@@ -1,5 +1,4 @@
 const names =["Guadalupe", "Ollie", "Aki"];
-
 const messages = [];
 function writeCards(names, eventNames) {
     for (let i = 0; i < names.length; i ++) {
